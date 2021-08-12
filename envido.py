@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 31 22:26:23 2020
 
-@author: Administrador
-"""
 import random
 
 valores = [1, 2, 3, 4, 5, 6, 7, 10, 11, 12]
